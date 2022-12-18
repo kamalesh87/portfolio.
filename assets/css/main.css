@@ -1139,7 +1139,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("https://github.com/kamalesh87/portfolio./blob/ff605aa3f92641c488e6c56e6a9be911825e5b19/images/OIP%20(1).jpeg");
 			background-size: auto,
  256px 256px;
 			background-position: center,
